@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Completed B.Tech in Computer Science  
+- 🎓 Completed B.Tech in Computer Science & Engineering  
 - 💻 Skilled in **MERN Stack (MongoDB, Express.js, React, Node.js)**  
 - 🐍 Also comfortable with **Python & JavaScript**  
 - 🔍 Actively seeking developer opportunities  
