@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diganta Singh Panwar  
+# Hi, I'm Diganta Singh Panwar  
 
 🥲 Graduate | MERN Stack & Python Developer | Open to Work  
 
